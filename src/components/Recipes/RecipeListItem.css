@@ -1,0 +1,12 @@
+.recipe {
+    font-size: 20px;
+}
+
+.recipe-img {
+    text-align: center;
+}
+
+.recipe-img img {
+    height: 250px;
+    width: auto;
+}

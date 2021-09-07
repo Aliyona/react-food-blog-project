@@ -1,19 +1,7 @@
 import React from 'react'
-import { makeStyles } from '@material-ui/styles'
 import Button from '@material-ui/core/Button'
 
-// const useStyles = makeStyles({
-//     appBarColor: {
-//         backgroundColor: '#1e1d26',
-//     },
-//     logo: {
-//         marginTop: 15,
-//         marginBottom: 15,
-//     },
-// })
-
 const Menu = () => {
-    // const classes = useStyles()
     return (
         <>
             <Button color="inherit">Home</Button>
