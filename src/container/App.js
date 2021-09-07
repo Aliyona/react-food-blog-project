@@ -1,13 +1,14 @@
 import React from 'react'
 import CssBaseline from '@material-ui/core/CssBaseline'
+import Header from './Header/Header'
+import Main from './Main/Main'
 
 const App = () => {
     return (
         <>
             <CssBaseline />
-            <div>
-                <p>lorem hello</p>
-            </div>
+            <Header />
+            <Main />
         </>
     )
 }
